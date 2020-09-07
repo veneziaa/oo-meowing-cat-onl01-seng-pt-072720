@@ -1,4 +1,4 @@
-attr_accessor=Cat.new
+class Cat
   attr_accessor.name="maru" 
   attr_accessor.name
 
