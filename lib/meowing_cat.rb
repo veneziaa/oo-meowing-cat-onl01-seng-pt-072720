@@ -4,7 +4,7 @@ end
  
 class Cat
   def bark
-    puts "woof!"
+    puts "meow"
   end 
   
 end 
