@@ -3,7 +3,7 @@ class Cat
 end
  
 class Cat
-  def bark
+  def meow
     puts "meow"
   end 
   
