@@ -1,5 +1,5 @@
 attr_accessor=Cat.new
-  attr_accessor.name  
+  attr_accessor="" 
   attr_accessor.name
 
 
